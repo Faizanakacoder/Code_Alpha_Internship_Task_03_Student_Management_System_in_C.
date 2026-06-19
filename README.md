@@ -65,7 +65,8 @@ The project is designed to provide hands-on experience with structures, arrays, 
 
 ### Student Management System Output
 
-> Add your execution screenshot inside the **screenshots** folder and name it **output.png**.
+(<img width="1920" height="1020" alt="output_Task_03" src="https://github.com/user-attachments/assets/f2a59f1d-e27c-4e88-b6b6-e65ce2202807" />
+)
 
 ---
 
